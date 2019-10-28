@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Станислав Паршин](https://up.htmlacademy.ru/yii/1/user/985489).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Сергеев](https://htmlacademy.ru/profile/asamat).
 
 ---
 
